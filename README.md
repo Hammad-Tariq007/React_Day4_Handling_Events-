@@ -1,12 +1,31 @@
-# React + Vite
+# 🎯 React — Handling Events
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React project demonstrating **how to handle events** in React components.  
+This covers **button clicks**, **form submissions**, **input changes**, and other common event patterns — all with clean JSX and state management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **Event binding** in JSX
+- Passing **event handlers** as props
+- **Updating state** based on events
+- Handling **synthetic events** in React
+- Using **inline functions** vs **separate handler functions**
+- Examples of:
+  - `onClick`
+  - `onChange`
+  - `onSubmit`
+  - `onMouseEnter` / `onMouseLeave`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React 18**
+- **Vite** (for fast development)
+- **JavaScript (ES6+)**
+- **CSS3** (component-based styling)
+
+---
+
